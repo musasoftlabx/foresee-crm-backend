@@ -38,7 +38,7 @@ app.use(
 app.use("/", (req, res, next) => next());
 
 // Routes
-app.use("/Login", require("./routes/Login"));
+app.use("/login", require("./routes/login"));
 app.use("/refresh", require("./routes/refresh"));
 app.use(verifyToken);
 app.use("/Categories", require("./routes/Categories"));
