@@ -21,13 +21,13 @@ const logger = createLogger({
     }),
     new transports.File({ filename: "./logs/combined.log" }),
 
-    new transports.MongoDB({
+    /* new transports.MongoDB({
       //level: 'error',
       db: process.env.DATABASE_URL,
       options: { useUnifiedTopology: true },
       collection: "logs",
       format: format.combine(format.timestamp(), format.json()),
-    }),
+    }), */
   ],
 });
 
