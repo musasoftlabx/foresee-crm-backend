@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "npm start",
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "Musa Mutetwi",
   "license": "ISC",
