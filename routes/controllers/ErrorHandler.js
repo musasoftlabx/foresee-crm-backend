@@ -44,7 +44,7 @@ const ErrorHandler = (e) => {
     error["body"] = `${value} already exists. Kindly try another ${field}.`;
   }
 
-  return error;
+  return { ...error, status: "error" };
 };
 
 module.exports = ErrorHandler;

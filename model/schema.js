@@ -9,6 +9,17 @@ const { mongoose, Schema } = require("./connection");
 // Schema definitions
 // This references the collection name as called in the DB
 
+// Constants schema
+const constantsSchema = new Schema(
+  {
+    VAT: {
+      type: mongoose.Types.Decimal128,
+      get: (v) => new mongoose.Types.Decimal128((+v.toString()).toFixed(4)),
+    },
+  },
+  { versionKey: false }
+);
+
 // User schema
 const userSchema = new Schema(
   {
@@ -120,19 +131,21 @@ const ticketsSchema = new Schema(
       type: String,
       maxLength: [50, "Cannot be more than 50 characters. Got {VALUE}"],
     },
+    photos: [String],
     stage: {
       type: String,
       enum: ["New", "In Progress", "Rejected", "Done"],
       default: "New",
     },
     raisedBy: {
-      type: Schema.Types.ObjectId,
+      //type: Schema.Types.ObjectId,
+      type: String,
       index: true,
     },
     forStore: String,
     quotation: {
       offerDate: String,
-      offer: { type: String, trim: true },
+      offerNo: { type: String, trim: true },
       issue: { type: String, trim: true },
       solution: { type: String, trim: true },
       warranty: { type: String, trim: true },
@@ -140,13 +153,16 @@ const ticketsSchema = new Schema(
       notes: String,
       workDetails: [
         {
-          scope: String,
+          work: String,
           brand: String,
           quantity: Number,
           price: Number,
         },
       ],
       total: Number,
+      url: String,
+      approved: { type: Boolean, default: false },
+      mailed: { type: Boolean, default: false },
     },
     actions: [
       {
@@ -162,6 +178,7 @@ const ticketsSchema = new Schema(
 
 // Export module to app.js
 //mongoose.models = {};
+let constantsCollection = mongoose.model("constant", constantsSchema);
 let usersCollection = mongoose.model("user", userSchema);
 let domainsCollection = mongoose.model("domain", domainsSchema);
 let storesCollection = mongoose.model("store", storesSchema);
@@ -170,6 +187,7 @@ let ticketsCollection = mongoose.model("ticket", ticketsSchema);
 
 module.exports = {
   mongoose,
+  constantsCollection,
   usersCollection,
   domainsCollection,
   storesCollection,

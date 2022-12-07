@@ -32,7 +32,7 @@ const verifyToken = (req, res, next) => {
       });
     } else {
       req.decodedToken = decodedToken;
-      req.modifiedBy = `${decodedToken.firstName} ${decodedToken.lastName}`;
+      req.actioner = `${decodedToken.firstName} ${decodedToken.lastName}`;
       req.username = `${decodedToken.username}`;
       next();
     }
