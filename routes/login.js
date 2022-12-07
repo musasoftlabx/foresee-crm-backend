@@ -67,9 +67,8 @@ router.post("/", (req, res) => {
 // Handle errors
 const HandleErrors = () => {
   return (error = {
-    title: "Incorrect credentials",
-    content:
-      "Sorry, we couldn't verify you. Ensure your credentials are specified correctly.",
+    subject: "Incorrect credentials",
+    body: "Sorry, we couldn't verify you. Ensure your credentials are specified correctly.",
   });
 };
 

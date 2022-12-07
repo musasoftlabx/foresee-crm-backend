@@ -34,6 +34,8 @@ app.use(
   })
 );
 
+app.use("*/public", express.static("public"));
+
 // Auto-process
 app.use("/", (req, res, next) => next());
 
@@ -41,12 +43,15 @@ app.use("/", (req, res, next) => next());
 app.use("/login", require("./routes/login"));
 app.use("/refresh", require("./routes/refresh"));
 app.use(verifyToken);
-app.use("/Categories", require("./routes/Categories"));
+app.use("/categories", require("./routes/categories"));
+app.use("/tickets", require("./routes/tickets"));
+app.use("/quotation", require("./routes/quotation"));
+app.use("/upload", require("./routes/upload"));
+app.use("/domains", require("./routes/domains"));
+
 app.use("/SendMail", require("./routes/SendMail"));
 app.use("/ReadExcel", require("./routes/ReadExcel"));
-app.use("/GetDomains", require("./routes/GetDomains"));
 app.use("/Users", require("./routes/Users"));
-app.use("/Tickets", require("./routes/Tickets"));
 app.use("/Stores", require("./routes/Stores"));
 
 // Error management

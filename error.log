@@ -1,0 +1,988 @@
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T08:09:36.883Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T08:09:39.259Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:18:39.202Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:19:01.997Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:20:41.496Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:23:11.951Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:23:14.834Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:23:29.018Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:23:40.054Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:23:49.578Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:24:01.678Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:24:37.584Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:28:38.259Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:29:02.257Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:29:29.395Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:29:40.175Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:34:09.204Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:34:12.276Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:34:31.872Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:34:34.355Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:34:51.053Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:06.012Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:14.857Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:32.160Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:34.928Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:37.538Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:40.572Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:43.225Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:35:48.135Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:36:09.266Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:36:17.020Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:36:25.371Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:36:28.963Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:36:42.333Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:36:51.865Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:37:03.046Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:37:20.411Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:39:28.090Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:39:32.598Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:48:41.203Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:48:44.077Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:48:46.500Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:48:49.043Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:48:52.226Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:48:54.574Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:51:59.390Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T19:52:02.390Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:03:29.379Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:03:32.627Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:03:39.721Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:03:49.055Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:03:56.324Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:03:58.893Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:04.307Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:06.783Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:14.435Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:19.968Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:23.384Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:30.202Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:37.136Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:40.067Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:43.329Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:47.627Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:51.335Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:04:59.824Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:05:07.952Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:05:11.288Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:05:16.803Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:05:24.890Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:05:27.676Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:05:33.592Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:05:57.432Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:14:13.173Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:14:26.934Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:14:34.961Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:14:44.114Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:15:12.796Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:15:21.255Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:15:31.151Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:15:39.972Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:16:37.037Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:16:43.505Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:17:01.024Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:17:07.176Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:17:21.551Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:20:35.143Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:20:42.257Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:21:00.929Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:21:13.785Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:22:13.719Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:22:56.040Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:23:08.038Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:23:46.112Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:24:16.751Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:24:33.982Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:25:42.468Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:25:46.526Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:26:19.294Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:26:56.328Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:32:18.071Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:32:22.191Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-18T20:33:08.733Z'
+}
+{
+  message: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+      at Model.$wrapCallback (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongoose/lib/model.js:5232:32)
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongoose/lib/query.js:4908:21
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+      at new Promise (<anonymous>)
+      at promiseOrCallback (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+      at model.Query.exec (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongoose/lib/query.js:4907:10)
+      at Query.then (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongoose/lib/query.js:4990:15)
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:20:6
+      at Layer.handle [as handle_request] (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/layer.js:95:5)
+      at next (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/route.js:144:13)
+      at Route.dispatch (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/route.js:114:3)
+      at Layer.handle [as handle_request] (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/layer.js:95:5)
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/index.js:284:15
+      at Function.process_params (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/index.js:346:12)
+      at next (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/index.js:280:10)
+      at Function.handle (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/express/lib/router/index.js:175:3) {
+    reason: TopologyDescription {
+      type: 'ReplicaSetNoPrimary',
+      servers: Map(3) {
+        'ac-csbrml4-shard-00-00.kuqoa7t.mongodb.net:27017' => ServerDescription {
+          address: 'ac-csbrml4-shard-00-00.kuqoa7t.mongodb.net:27017',
+          type: 'Unknown',
+          hosts: [],
+          passives: [],
+          arbiters: [],
+          tags: {},
+          minWireVersion: 0,
+          maxWireVersion: 0,
+          roundTripTime: -1,
+          lastUpdateTime: 254507020,
+          lastWriteDate: 0,
+          error: MongoNetworkTimeoutError: connection <monitor> to 13.244.56.148:27017 timed out
+              at Timeout._onTimeout (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongodb/lib/cmap/connection.js:150:23)
+              at listOnTimeout (node:internal/timers:564:17)
+              at process.processTimers (node:internal/timers:507:7) {
+            [Symbol(errorLabels)]: Set(1) { 'ResetPool' },
+            [Symbol(beforeHandshake)]: false
+          },
+          topologyVersion: null,
+          setName: null,
+          setVersion: null,
+          electionId: null,
+          logicalSessionTimeoutMinutes: null,
+          primary: null,
+          me: null,
+          '$clusterTime': null
+        },
+        'ac-csbrml4-shard-00-01.kuqoa7t.mongodb.net:27017' => ServerDescription {
+          address: 'ac-csbrml4-shard-00-01.kuqoa7t.mongodb.net:27017',
+          type: 'Unknown',
+          hosts: [],
+          passives: [],
+          arbiters: [],
+          tags: {},
+          minWireVersion: 0,
+          maxWireVersion: 0,
+          roundTripTime: -1,
+          lastUpdateTime: 254507019,
+          lastWriteDate: 0,
+          error: MongoNetworkTimeoutError: connection <monitor> to 13.246.127.157:27017 timed out
+              at Timeout._onTimeout (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongodb/lib/cmap/connection.js:150:23)
+              at listOnTimeout (node:internal/timers:564:17)
+              at process.processTimers (node:internal/timers:507:7) {
+            [Symbol(errorLabels)]: Set(1) { 'ResetPool' },
+            [Symbol(beforeHandshake)]: false
+          },
+          topologyVersion: null,
+          setName: null,
+          setVersion: null,
+          electionId: null,
+          logicalSessionTimeoutMinutes: null,
+          primary: null,
+          me: null,
+          '$clusterTime': null
+        },
+        'ac-csbrml4-shard-00-02.kuqoa7t.mongodb.net:27017' => ServerDescription {
+          address: 'ac-csbrml4-shard-00-02.kuqoa7t.mongodb.net:27017',
+          type: 'Unknown',
+          hosts: [],
+          passives: [],
+          arbiters: [],
+          tags: {},
+          minWireVersion: 0,
+          maxWireVersion: 0,
+          roundTripTime: -1,
+          lastUpdateTime: 254507019,
+          lastWriteDate: 0,
+          error: MongoNetworkTimeoutError: connection <monitor> to 13.246.154.97:27017 timed out
+              at Timeout._onTimeout (/Users/musa-mutetwi/projects/web/foresee-crm-backend/node_modules/mongodb/lib/cmap/connection.js:150:23)
+              at listOnTimeout (node:internal/timers:564:17)
+              at process.processTimers (node:internal/timers:507:7) {
+            [Symbol(errorLabels)]: Set(1) { 'ResetPool' },
+            [Symbol(beforeHandshake)]: false
+          },
+          topologyVersion: null,
+          setName: null,
+          setVersion: null,
+          electionId: null,
+          logicalSessionTimeoutMinutes: null,
+          primary: null,
+          me: null,
+          '$clusterTime': null
+        }
+      },
+      stale: false,
+      compatible: true,
+      heartbeatFrequencyMS: 10000,
+      localThresholdMS: 15,
+      setName: 'atlas-3hemdp-shard-0',
+      maxElectionId: new ObjectId("7fffffff0000000000000003"),
+      maxSetVersion: 1,
+      commonWireVersion: 0,
+      logicalSessionTimeoutMinutes: null
+    },
+    code: undefined
+  },
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-20T13:54:04.932Z'
+}
+{
+  message: Error: non existent
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:56:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-29T05:21:09.301Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-30T12:50:24.688Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-30T12:50:34.202Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-30T12:50:41.822Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-11-30T12:50:49.331Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-07T04:12:19.696Z'
+}
