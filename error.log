@@ -986,3 +986,64 @@
   label: 'right meow!',
   timestamp: '2022-12-07T04:12:19.696Z'
 }
+{
+  message: Error: non existent
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:56:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-15T04:56:25.811Z'
+}
+{
+  message: Error: non existent
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:56:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-15T04:58:59.471Z'
+}
+{
+  message: Error: non existent
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:56:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-15T05:00:46.649Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-15T05:01:50.974Z'
+}
+{
+  message: Error: non existent
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:56:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-15T05:04:23.840Z'
+}
+{
+  message: Error: non existent
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:56:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-15T10:39:59.081Z'
+}
+{
+  message: Error: verification failed
+      at /Users/musa-mutetwi/projects/web/foresee-crm-backend/routes/login.js:53:17,
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2022-12-16T04:14:32.890Z'
+}

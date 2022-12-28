@@ -80,6 +80,7 @@ router.get("/", async (req, res) => {
         url: ticket.quotation.url,
         mailed: ticket.quotation.mailed,
         approved: ticket.quotation.approved,
+        comment: ticket.quotation.comment,
       },
       operation: null,
     })),
@@ -115,11 +116,7 @@ router.get("/:count", async (req, res) => {
         _: ticket.details,
         expanded: false,
       },
-      quotation: {
-        url: ticket.quotation.url,
-        mailed: ticket.quotation.mailed,
-        approved: ticket.quotation.approved,
-      },
+      quotation: ticket.quotation,
       photos: ticket.photos,
       createdAt: dayjs(ticket.createdAt).fromNow(true),
       raisedBy: ticket.raisedBy,
@@ -186,6 +183,19 @@ router.put("/", async (req, res) => {
     if (err) res.status(500).json(ErrorHandler(err));
     res.status(201).json(data);
   });
+});
+
+router.put("/comments", async (req, res) => {
+  const { _, comment } = req.body;
+
+  ticketsCollection.findByIdAndUpdate(
+    _,
+    { $set: { "quotation.comment": comment } },
+    (err, data) => {
+      if (err) res.status(500).json(ErrorHandler(err));
+      res.status(201).json(data);
+    }
+  );
 });
 
 router.put("/approve", async (req, res) => {

@@ -159,10 +159,13 @@ const ticketsSchema = new Schema(
           price: Number,
         },
       ],
+      VAT: String,
       total: Number,
       url: String,
+      comment: String,
       approved: { type: Boolean, default: false },
       mailed: { type: Boolean, default: false },
+      revisions: Array,
     },
     actions: [
       {

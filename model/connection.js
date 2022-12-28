@@ -13,7 +13,8 @@ const options = {
 };
 
 // Invoke app
-const app = http2Express(express); //const app = express(); HTTP 1.1
+//const app = http2Express(express);
+const app = express(); //HTTP 1.1
 
 // Define PORT
 const PORT = process.env.PORT || 3333;
@@ -26,10 +27,10 @@ mongoose
   })
   .then(() => {
     console.log(`MongoDB connected`);
-    //app.listen(PORT, () => console.log(`Listening to port ${PORT}`)); HTTP 1.1
-    http2
+    app.listen(PORT, () => console.log(`Listening to port ${PORT}`)); //HTTP 1.1
+    /* http2
       .createSecureServer(options, app)
-      .listen(PORT, () => console.log(`Listening to port ${PORT}`));
+      .listen(PORT, () => console.log(`Listening to port ${PORT}`)); */
   })
   .catch((err) => {
     console.log(err.message);
