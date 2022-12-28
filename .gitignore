@@ -3,6 +3,9 @@
 *.pdf
 *.pem
 *.txt
+*.png
+*.jpeg
+*.jpg
 access.log
 combined.log
 
