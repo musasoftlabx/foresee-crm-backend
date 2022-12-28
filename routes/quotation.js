@@ -13,13 +13,17 @@ const { constantsCollection, ticketsCollection } = require("../model/schema");
 const ErrorHandler = require("./controllers/ErrorHandler");
 
 // * Create constants
-router.get("/", (req, res) => {
-  constantsCollection.create({ application: { VAT: 0.16 } });
-  res.sendStatus(201);
+router.get("/", async (req, res) => {
+  /* constantsCollection.create({ application: { VAT: 0.16 } });
+  res.sendStatus(201); */
+  const { quotation } = await ticketsCollection.findById(
+    "638da6f71a13fdd43cd9dc2a"
+  );
+  res.json(JSON.stringify(quotation) === "{}");
 });
 
 // * Generate quotation and write to excel file
-router.post("/", (req, res) => {
+router.post("/", async (req, res) => {
   const {
     _,
     offerDate,
@@ -31,11 +35,34 @@ router.post("/", (req, res) => {
     workDetails,
   } = req.body;
 
+  // ? Check if quote doesn't exists
+  const {
+    quotation,
+    quotation: { approved, mailed, revisions, total, ...rest },
+  } = await ticketsCollection.findById(_);
+
+  if (quotation.offerNo) {
+    await ticketsCollection.findByIdAndUpdate(_, {
+      $push: { "quotation.revisions": rest },
+    });
+  }
+
   // ? Update ticket with quotation details
   ticketsCollection.findByIdAndUpdate(
     _,
     {
-      quotation: {
+      $set: {
+        "quotation.offerDate": offerDate,
+        "quotation.offerNo": _,
+        "quotation.issue": issue,
+        "quotation.solution": solution,
+        "quotation.warranty": warranty,
+        "quotation.timeframe": timeframe,
+        "quotation.notes": notes,
+        "quotation.workDetails": workDetails,
+        "quotation.VAT": 0,
+      },
+      /* quotation: {
         offerDate,
         offerNo: _,
         issue,
@@ -43,8 +70,8 @@ router.post("/", (req, res) => {
         warranty,
         timeframe,
         notes,
-        workDetails,
-      },
+        workDetails
+      }, */
     },
     async (err, data) => {
       if (err) return res.status(400).json(ErrorHandler(err));
